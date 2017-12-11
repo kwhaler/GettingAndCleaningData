@@ -1,7 +1,5 @@
 # Peer-graded Assignment: Getting and Cleaning Data Course Project
 
----
-
 This is the course project for Coursera Data Science Getting and Cleaning Data. `run_analysis.R` performs the following:
 
 1. The submitted data set is tidy.
